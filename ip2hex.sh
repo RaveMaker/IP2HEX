@@ -2,6 +2,8 @@
 
 # convert IP addres to HEX value
 # For example : 10.0.0 - 0a0000
+#
+# by RaveMaker - http://ravemaker.net
 
 echo "Please input SUBNET or IP, for example 10.0.0"
 read IP_ADDR

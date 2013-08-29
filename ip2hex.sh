@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 # convert IP addres to HEX value
 # For example : 10.0.0 - 0a0000

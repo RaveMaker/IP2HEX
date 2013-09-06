@@ -11,8 +11,8 @@ Convert IP Address to Hex values
 
 For Example:
 
-- 192.168.0 = c0a800
-- 10.0.0 = 0a0000
+- 192.168.0 = C0A800
+- 10.0.0 = 0A0000
 
 by [RaveMaker][RaveMaker].
 [RaveMaker]: http://ravemaker.net

@@ -14,5 +14,6 @@ For Example:
 - 192.168.0 = C0A800
 - 10.0.0 = 0A0000
 
-by [RaveMaker][RaveMaker].
+Author: [RaveMaker][RaveMaker].
+
 [RaveMaker]: http://ravemaker.net
